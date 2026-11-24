@@ -1,0 +1,9 @@
+.stApp{background:linear-gradient(135deg,#0a1128,#12192e 60%,#0b1a2e);color:#e6edf7}
+[data-testid=stSidebar]{background:#0d1426;border-right:1px solid #1e3a5f}
+.glass{background:rgba(255,255,255,.05);border:1px solid rgba(0,200,255,.25);border-radius:16px;padding:18px;backdrop-filter:blur(8px);transition:.3s}
+.glass:hover{border-color:#00d4ff;transform:translateY(-3px)}
+.hero{font-size:3.4rem;font-weight:800;background:linear-gradient(90deg,#3b82f6,#22d3ee);-webkit-background-clip:text;color:transparent}
+.big{font-size:2rem;font-weight:700;color:#22d3ee}
+.headline{font-size:1.15rem;padding:14px 18px;border-left:4px solid #22d3ee;background:rgba(34,211,238,.08);border-radius:8px;margin:8px 0 18px}
+#MainMenu,footer{visibility:hidden}
+h1{font-weight:800}

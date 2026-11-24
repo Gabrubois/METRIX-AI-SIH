@@ -1,0 +1,301 @@
+instrument_id,instrument_category,instrument_type,data_source,cluster_euclidean,is_medoid,risk_score,risk_group_euclidean,risk_reasons,cluster_manhattan,risk_group_manhattan
+INS0000,Weighing,Platform Scale,SYNTHETIC,0,False,16.554494620621774,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0001,Measuring,Measuring Tape,SYNTHETIC,0,False,7.332267145570835,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0002,Weighing,Weighbridge,SYNTHETIC,2,False,47.41765401133847,High,"calibration_failure_freq, violation_indicator, mean_abs_deviation",2,High
+INS0003,Measuring,Dispensing Pump,SYNTHETIC,0,False,35.441384144723656,Low,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0004,Measuring,Measuring Tape,SYNTHETIC,1,False,21.775101527741036,Medium,"violation_indicator, calibration_failure_freq, usage_intensity",1,Medium
+INS0005,Measuring,Liquid Measure,SYNTHETIC,0,False,7.973440617661131,Low,"days_since_calibration, historical_failure_rate, usage_intensity",0,Low
+INS0006,Measuring,Liquid Measure,SYNTHETIC,0,False,6.443574033383176,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0007,Measuring,Measuring Tape,SYNTHETIC,0,False,12.605016335184258,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0008,Measuring,Dispensing Pump,SYNTHETIC,1,False,34.37984046457269,Medium,"violation_indicator, days_since_calibration, calibration_failure_freq",1,Medium
+INS0009,Weighing,Platform Scale,SYNTHETIC,1,False,37.011994158147026,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0010,Measuring,Measuring Tape,SYNTHETIC,0,False,10.792883611897947,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0011,Measuring,Dispensing Pump,SYNTHETIC,1,False,26.392674524945715,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",0,Low
+INS0012,Measuring,Dispensing Pump,SYNTHETIC,0,False,14.192965874155067,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0013,Measuring,Liquid Measure,SYNTHETIC,1,False,44.03530529833537,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0014,Weighing,Platform Scale,SYNTHETIC,0,False,8.431113950432561,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0015,Weighing,Platform Scale,SYNTHETIC,1,False,30.921501694698367,Medium,"violation_indicator, calibration_failure_freq, usage_intensity",1,Medium
+INS0016,Weighing,Counter Scale,SYNTHETIC,1,False,45.43065675808599,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0017,Weighing,Platform Scale,SYNTHETIC,1,False,45.12337413213308,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0018,Measuring,Dispensing Pump,SYNTHETIC,1,False,31.47753215399621,Medium,"violation_indicator, days_since_calibration, calibration_failure_freq",1,Medium
+INS0019,Measuring,Liquid Measure,SYNTHETIC,1,False,45.490385185324634,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0020,Weighing,Platform Scale,SYNTHETIC,0,False,10.526676367161873,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0021,Measuring,Dispensing Pump,SYNTHETIC,0,False,28.17339906096768,Low,"violation_indicator, days_since_calibration, calibration_failure_freq",0,Low
+INS0022,Weighing,Weighbridge,SYNTHETIC,2,False,58.88825536355369,High,"calibration_failure_freq, violation_indicator, mean_abs_deviation",2,High
+INS0023,Weighing,Weighbridge,SYNTHETIC,1,False,33.26953543026648,Medium,"violation_indicator, calibration_failure_freq, mean_abs_deviation",1,Medium
+INS0024,Weighing,Counter Scale,SYNTHETIC,0,False,10.504459521324886,Low,"days_since_calibration, historical_failure_rate, usage_intensity",0,Low
+INS0025,Weighing,Platform Scale,SYNTHETIC,1,False,51.66230306631251,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0026,Measuring,Measuring Tape,SYNTHETIC,1,False,51.82305994164976,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0027,Measuring,Measuring Tape,SYNTHETIC,1,False,29.660077613932163,Medium,"violation_indicator, days_since_calibration, calibration_failure_freq",1,Medium
+INS0028,Weighing,Platform Scale,SYNTHETIC,0,False,12.622260816335862,Low,"usage_intensity, days_since_calibration, maintenance_freq",0,Low
+INS0029,Weighing,Weighbridge,SYNTHETIC,0,False,14.405076391985386,Low,"days_since_calibration, maintenance_freq, mean_abs_deviation",0,Low
+INS0030,Weighing,Platform Scale,SYNTHETIC,1,False,22.29736099085076,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0031,Measuring,Dispensing Pump,SYNTHETIC,0,False,7.601915375787939,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0032,Measuring,Liquid Measure,SYNTHETIC,0,False,10.33810628407351,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0033,Measuring,Liquid Measure,SYNTHETIC,1,False,34.622935019368065,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0034,Measuring,Liquid Measure,SYNTHETIC,0,False,14.069155508638985,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0035,Weighing,Weighbridge,SYNTHETIC,1,False,31.776122443720777,Medium,"violation_indicator, calibration_failure_freq, usage_intensity",1,Medium
+INS0036,Measuring,Liquid Measure,SYNTHETIC,1,False,33.95802809180136,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0037,Measuring,Measuring Tape,SYNTHETIC,1,False,32.83220338874939,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0038,Measuring,Dispensing Pump,SYNTHETIC,0,False,9.152934177160743,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0039,Measuring,Dispensing Pump,SYNTHETIC,0,False,2.537771265475382,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0040,Weighing,Platform Scale,SYNTHETIC,1,False,34.04127808659979,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0041,Measuring,Dispensing Pump,SYNTHETIC,1,False,25.766349101753782,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0042,Measuring,Measuring Tape,SYNTHETIC,0,False,15.535342351920756,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0043,Measuring,Dispensing Pump,SYNTHETIC,1,False,37.88267445626765,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0044,Measuring,Dispensing Pump,SYNTHETIC,1,False,47.08356539483176,Medium,"calibration_failure_freq, violation_indicator, usage_intensity",1,Medium
+INS0045,Measuring,Liquid Measure,SYNTHETIC,1,False,38.1292304002647,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0046,Weighing,Counter Scale,SYNTHETIC,1,False,39.284852313975655,Medium,"violation_indicator, days_since_calibration, historical_failure_rate",1,Medium
+INS0047,Measuring,Liquid Measure,SYNTHETIC,1,False,36.49958465470057,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0048,Measuring,Measuring Tape,SYNTHETIC,0,False,11.064261641527878,Low,"days_since_calibration, usage_intensity, max_abs_deviation",0,Low
+INS0049,Measuring,Dispensing Pump,SYNTHETIC,1,False,34.88248363590953,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0050,Weighing,Weighbridge,SYNTHETIC,2,False,52.420509271740336,High,"calibration_failure_freq, violation_indicator, mean_abs_deviation",2,High
+INS0051,Measuring,Liquid Measure,SYNTHETIC,0,False,10.288528630172014,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0052,Measuring,Measuring Tape,SYNTHETIC,0,False,8.256562264119893,Low,"days_since_calibration, maintenance_freq, historical_failure_rate",0,Low
+INS0053,Weighing,Counter Scale,SYNTHETIC,0,False,10.040919421931138,Low,"maintenance_freq, days_since_calibration, historical_failure_rate",0,Low
+INS0054,Measuring,Dispensing Pump,SYNTHETIC,1,False,23.97953452058308,Medium,"violation_indicator, calibration_failure_freq, historical_failure_rate",1,Medium
+INS0055,Measuring,Dispensing Pump,SYNTHETIC,1,False,37.96537991827144,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0056,Weighing,Counter Scale,SYNTHETIC,1,False,33.68588518363655,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0057,Measuring,Measuring Tape,SYNTHETIC,1,False,21.84389784002017,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0058,Weighing,Weighbridge,SYNTHETIC,2,False,38.80312781474802,High,"violation_indicator, mean_abs_deviation, calibration_failure_freq",2,High
+INS0059,Weighing,Weighbridge,SYNTHETIC,2,False,41.590286667376006,High,"mean_abs_deviation, violation_indicator, calibration_failure_freq",2,High
+INS0060,Measuring,Liquid Measure,SYNTHETIC,0,False,30.562808990792877,Low,"violation_indicator, days_since_calibration, calibration_failure_freq",0,Low
+INS0061,Measuring,Liquid Measure,SYNTHETIC,0,False,4.561784268502015,Low,"usage_intensity, historical_failure_rate, days_since_calibration",0,Low
+INS0062,Weighing,Platform Scale,SYNTHETIC,1,False,26.12063557520327,Medium,"violation_indicator, calibration_failure_freq, usage_intensity",1,Medium
+INS0063,Measuring,Dispensing Pump,SYNTHETIC,0,False,10.022977547286255,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0064,Weighing,Platform Scale,SYNTHETIC,1,False,46.21844578159973,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0065,Weighing,Weighbridge,SYNTHETIC,0,False,10.268158365301217,Low,"usage_intensity, days_since_calibration, mean_abs_deviation",0,Low
+INS0066,Weighing,Weighbridge,SYNTHETIC,0,False,29.389329301012534,Low,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0067,Measuring,Liquid Measure,SYNTHETIC,1,False,29.189013524569745,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0068,Weighing,Weighbridge,SYNTHETIC,0,False,31.34163292448513,Low,"violation_indicator, calibration_failure_freq, days_since_calibration",0,Low
+INS0069,Weighing,Counter Scale,SYNTHETIC,0,False,6.618923557240827,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0070,Weighing,Weighbridge,SYNTHETIC,2,False,42.12805524280464,High,"violation_indicator, days_since_calibration, mean_abs_deviation",2,High
+INS0071,Weighing,Weighbridge,SYNTHETIC,0,False,14.429405992893315,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0072,Weighing,Weighbridge,SYNTHETIC,1,False,30.054530220087084,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0073,Measuring,Measuring Tape,SYNTHETIC,1,False,28.187664782781454,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0074,Weighing,Platform Scale,SYNTHETIC,0,False,23.50059189910399,Low,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0075,Weighing,Counter Scale,SYNTHETIC,0,False,10.241887839558938,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0076,Weighing,Weighbridge,SYNTHETIC,2,False,50.0625138208871,High,"calibration_failure_freq, violation_indicator, mean_abs_deviation",2,High
+INS0077,Measuring,Dispensing Pump,SYNTHETIC,1,False,39.402534868169106,Medium,"calibration_failure_freq, violation_indicator, usage_intensity",1,Medium
+INS0078,Weighing,Platform Scale,SYNTHETIC,1,False,22.3421221715904,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0079,Measuring,Liquid Measure,SYNTHETIC,1,False,31.598011246100583,Medium,"violation_indicator, calibration_failure_freq, usage_intensity",1,Medium
+INS0080,Weighing,Counter Scale,SYNTHETIC,1,False,34.62454586464409,Medium,"violation_indicator, days_since_calibration, calibration_failure_freq",1,Medium
+INS0081,Measuring,Measuring Tape,SYNTHETIC,0,False,9.27078251503273,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0082,Weighing,Counter Scale,SYNTHETIC,1,False,27.191496918490373,Medium,"violation_indicator, calibration_failure_freq, usage_intensity",1,Medium
+INS0083,Measuring,Dispensing Pump,SYNTHETIC,0,False,13.036229617356218,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0084,Weighing,Platform Scale,SYNTHETIC,0,False,8.471198275024431,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0085,Measuring,Liquid Measure,SYNTHETIC,1,False,30.98782640175508,Medium,"violation_indicator, days_since_calibration, calibration_failure_freq",1,Medium
+INS0086,Weighing,Counter Scale,SYNTHETIC,0,False,15.817739692431248,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0087,Weighing,Counter Scale,SYNTHETIC,1,False,45.93900729042372,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0088,Weighing,Platform Scale,SYNTHETIC,0,False,7.851097484255407,Low,"days_since_calibration, maintenance_freq, historical_failure_rate",0,Low
+INS0089,Weighing,Weighbridge,SYNTHETIC,0,False,14.356106798578027,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0090,Measuring,Dispensing Pump,SYNTHETIC,0,False,13.201282001638386,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0091,Weighing,Platform Scale,SYNTHETIC,1,False,35.23828630661197,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0092,Weighing,Platform Scale,SYNTHETIC,0,False,6.531078162154472,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0093,Weighing,Platform Scale,SYNTHETIC,1,False,29.04302183358407,Medium,"violation_indicator, days_since_calibration, calibration_failure_freq",1,Medium
+INS0094,Measuring,Dispensing Pump,SYNTHETIC,0,False,10.523088252902744,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0095,Weighing,Platform Scale,SYNTHETIC,1,False,33.66302665063363,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0096,Weighing,Weighbridge,SYNTHETIC,2,False,35.78679868775813,High,"violation_indicator, days_since_calibration, calibration_failure_freq",2,High
+INS0097,Measuring,Measuring Tape,SYNTHETIC,0,False,12.541160125279111,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0098,Measuring,Measuring Tape,SYNTHETIC,1,False,25.38017362100466,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0099,Measuring,Measuring Tape,SYNTHETIC,1,False,44.429366578645734,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0100,Weighing,Platform Scale,SYNTHETIC,1,False,25.487466750356553,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0101,Weighing,Platform Scale,SYNTHETIC,0,False,8.522405568855563,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0102,Weighing,Counter Scale,SYNTHETIC,0,False,17.404916129836227,Low,"historical_failure_rate, days_since_calibration, usage_intensity",0,Low
+INS0103,Measuring,Measuring Tape,SYNTHETIC,0,False,8.385307009024254,Low,"days_since_calibration, historical_failure_rate, usage_intensity",0,Low
+INS0104,Weighing,Weighbridge,SYNTHETIC,0,False,17.525336689248483,Low,"days_since_calibration, mean_abs_deviation, usage_intensity",0,Low
+INS0105,Weighing,Platform Scale,SYNTHETIC,0,False,7.0286387772432315,Low,"usage_intensity, days_since_calibration, mean_abs_deviation",0,Low
+INS0106,Measuring,Measuring Tape,SYNTHETIC,1,False,36.79401971236023,Medium,"violation_indicator, days_since_calibration, historical_failure_rate",1,Medium
+INS0107,Measuring,Measuring Tape,SYNTHETIC,0,False,29.480801899588727,Low,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0108,Measuring,Measuring Tape,SYNTHETIC,0,False,7.633649071594465,Low,"days_since_calibration, historical_failure_rate, maintenance_freq",0,Low
+INS0109,Weighing,Platform Scale,SYNTHETIC,1,False,23.861813827151096,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0110,Weighing,Counter Scale,SYNTHETIC,1,False,41.444013386084265,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0111,Weighing,Weighbridge,SYNTHETIC,2,True,50.01373379461567,High,"calibration_failure_freq, violation_indicator, mean_abs_deviation",2,High
+INS0112,Weighing,Platform Scale,SYNTHETIC,0,False,15.939994363836007,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0113,Weighing,Platform Scale,SYNTHETIC,0,False,10.713956053157943,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0114,Measuring,Measuring Tape,SYNTHETIC,0,False,11.846980013155067,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0115,Weighing,Counter Scale,SYNTHETIC,0,False,17.488879982142336,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0116,Measuring,Dispensing Pump,SYNTHETIC,0,False,18.314735200768958,Low,"historical_failure_rate, days_since_calibration, usage_intensity",0,Low
+INS0117,Weighing,Counter Scale,SYNTHETIC,0,False,23.938328909203165,Low,"violation_indicator, calibration_failure_freq, days_since_calibration",0,Low
+INS0118,Weighing,Counter Scale,SYNTHETIC,0,False,10.4655507839726,Low,"days_since_calibration, historical_failure_rate, maintenance_freq",0,Low
+INS0119,Weighing,Platform Scale,SYNTHETIC,1,False,24.710223715830782,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0120,Weighing,Weighbridge,SYNTHETIC,2,False,47.31968240700506,High,"calibration_failure_freq, violation_indicator, mean_abs_deviation",2,High
+INS0121,Weighing,Counter Scale,SYNTHETIC,1,False,30.70345578285564,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0122,Measuring,Measuring Tape,SYNTHETIC,1,False,31.19418676840603,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0123,Measuring,Measuring Tape,SYNTHETIC,1,False,35.92480386842328,Medium,"violation_indicator, historical_failure_rate, calibration_failure_freq",1,Medium
+INS0124,Measuring,Measuring Tape,SYNTHETIC,0,False,11.659677524542424,Low,"days_since_calibration, historical_failure_rate, usage_intensity",0,Low
+INS0125,Measuring,Measuring Tape,SYNTHETIC,0,False,11.888761640363757,Low,"usage_intensity, days_since_calibration, historical_failure_rate",0,Low
+INS0126,Weighing,Counter Scale,SYNTHETIC,1,False,24.475009198195902,Medium,"violation_indicator, calibration_failure_freq, maintenance_freq",1,Medium
+INS0127,Weighing,Counter Scale,SYNTHETIC,0,False,10.542870880616881,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0128,Weighing,Platform Scale,SYNTHETIC,0,False,7.38568716772677,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0129,Measuring,Measuring Tape,SYNTHETIC,1,False,40.486942323691196,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0130,Weighing,Counter Scale,SYNTHETIC,1,False,38.715142487688055,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0131,Measuring,Liquid Measure,SYNTHETIC,1,False,30.15134553461382,Medium,"calibration_failure_freq, violation_indicator, usage_intensity",1,Medium
+INS0132,Weighing,Counter Scale,SYNTHETIC,1,False,35.45969044732635,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0133,Measuring,Liquid Measure,SYNTHETIC,1,False,31.943054655744614,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0134,Weighing,Counter Scale,SYNTHETIC,1,False,22.07801607262577,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0135,Weighing,Platform Scale,SYNTHETIC,0,False,16.44632217089447,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0136,Measuring,Dispensing Pump,SYNTHETIC,1,False,27.446517458487108,Medium,"violation_indicator, calibration_failure_freq, historical_failure_rate",1,Medium
+INS0137,Weighing,Weighbridge,SYNTHETIC,2,False,54.47003371976772,High,"calibration_failure_freq, violation_indicator, mean_abs_deviation",2,High
+INS0138,Weighing,Weighbridge,SYNTHETIC,0,False,30.323800501691895,Low,"violation_indicator, calibration_failure_freq, days_since_calibration",0,Low
+INS0139,Weighing,Weighbridge,SYNTHETIC,0,False,10.663117380959775,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0140,Weighing,Weighbridge,SYNTHETIC,2,False,40.685208056115144,High,"violation_indicator, mean_abs_deviation, days_since_calibration",2,High
+INS0141,Measuring,Measuring Tape,SYNTHETIC,1,False,30.053045102718233,Medium,"violation_indicator, calibration_failure_freq, usage_intensity",1,Medium
+INS0142,Measuring,Liquid Measure,SYNTHETIC,0,False,9.032115090403922,Low,"days_since_calibration, maintenance_freq, mean_abs_deviation",0,Low
+INS0143,Measuring,Liquid Measure,SYNTHETIC,1,False,32.070200517079215,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0144,Measuring,Measuring Tape,SYNTHETIC,1,False,36.20760130245056,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0145,Weighing,Counter Scale,SYNTHETIC,1,False,22.603996783445805,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0146,Measuring,Liquid Measure,SYNTHETIC,1,False,24.924680220884838,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0147,Measuring,Liquid Measure,SYNTHETIC,0,False,16.500427612930192,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0148,Weighing,Platform Scale,SYNTHETIC,0,False,12.365492906568814,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0149,Weighing,Weighbridge,SYNTHETIC,2,False,42.37050047239685,High,"violation_indicator, days_since_calibration, mean_abs_deviation",2,High
+INS0150,Measuring,Dispensing Pump,SYNTHETIC,0,False,6.828827472587886,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0151,Measuring,Measuring Tape,SYNTHETIC,1,False,28.602691402775864,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0152,Weighing,Counter Scale,SYNTHETIC,1,False,38.74362099439519,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0153,Measuring,Dispensing Pump,SYNTHETIC,1,False,30.04951954877642,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0154,Measuring,Dispensing Pump,SYNTHETIC,0,False,11.90720683543403,Low,"days_since_calibration, historical_failure_rate, maintenance_freq",0,Low
+INS0155,Measuring,Liquid Measure,SYNTHETIC,0,False,14.874800382409253,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0156,Weighing,Platform Scale,SYNTHETIC,1,False,41.802904929651085,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0157,Weighing,Weighbridge,SYNTHETIC,0,False,17.91354928295456,Low,"usage_intensity, days_since_calibration, mean_abs_deviation",0,Low
+INS0158,Measuring,Measuring Tape,SYNTHETIC,0,False,16.619866910682887,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0159,Measuring,Measuring Tape,SYNTHETIC,0,False,9.44402760103767,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0160,Weighing,Platform Scale,SYNTHETIC,0,False,10.142149589170163,Low,"days_since_calibration, historical_failure_rate, usage_intensity",0,Low
+INS0161,Measuring,Liquid Measure,SYNTHETIC,1,False,40.281992826000206,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0162,Weighing,Counter Scale,SYNTHETIC,0,False,9.135343204554909,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0163,Weighing,Weighbridge,SYNTHETIC,2,False,61.27818335849705,High,"mean_abs_deviation, calibration_failure_freq, max_abs_deviation",2,High
+INS0164,Measuring,Measuring Tape,SYNTHETIC,1,False,42.11722563295433,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0165,Measuring,Liquid Measure,SYNTHETIC,1,False,25.74740200475414,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0166,Measuring,Liquid Measure,SYNTHETIC,0,False,24.769640361515116,Low,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0167,Measuring,Liquid Measure,SYNTHETIC,0,False,9.833728847199147,Low,"days_since_calibration, historical_failure_rate, maintenance_freq",0,Low
+INS0168,Weighing,Weighbridge,SYNTHETIC,2,False,40.856222669914146,High,"calibration_failure_freq, violation_indicator, days_since_calibration",2,High
+INS0169,Weighing,Platform Scale,SYNTHETIC,1,False,28.22907257860579,Medium,"violation_indicator, calibration_failure_freq, historical_failure_rate",1,Medium
+INS0170,Measuring,Measuring Tape,SYNTHETIC,1,False,28.450437403996652,Medium,"violation_indicator, calibration_failure_freq, usage_intensity",1,Medium
+INS0171,Measuring,Measuring Tape,SYNTHETIC,0,False,4.328743723609161,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0172,Weighing,Platform Scale,SYNTHETIC,1,False,39.819617876453336,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0173,Measuring,Dispensing Pump,SYNTHETIC,1,False,12.473616142398637,Medium,"historical_failure_rate, usage_intensity, days_since_calibration",0,Low
+INS0174,Weighing,Weighbridge,SYNTHETIC,2,False,50.606630360431936,High,"calibration_failure_freq, mean_abs_deviation, violation_indicator",2,High
+INS0175,Weighing,Counter Scale,SYNTHETIC,0,False,9.029072610303311,Low,"maintenance_freq, days_since_calibration, usage_intensity",0,Low
+INS0176,Weighing,Platform Scale,SYNTHETIC,1,False,26.505571882267652,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0177,Weighing,Platform Scale,SYNTHETIC,1,False,24.285518034615684,Medium,"historical_failure_rate, days_since_calibration, usage_intensity",0,Low
+INS0178,Measuring,Dispensing Pump,SYNTHETIC,1,False,38.16417087360114,Medium,"calibration_failure_freq, violation_indicator, usage_intensity",1,Medium
+INS0179,Weighing,Weighbridge,SYNTHETIC,2,False,63.47032724281314,High,"calibration_failure_freq, mean_abs_deviation, violation_indicator",2,High
+INS0180,Weighing,Platform Scale,SYNTHETIC,0,False,10.230205956039345,Low,"usage_intensity, days_since_calibration, maintenance_freq",0,Low
+INS0181,Measuring,Measuring Tape,SYNTHETIC,0,False,8.104513391156987,Low,"usage_intensity, days_since_calibration, maintenance_freq",0,Low
+INS0182,Weighing,Counter Scale,SYNTHETIC,1,False,28.110762235470098,Medium,"violation_indicator, calibration_failure_freq, historical_failure_rate",1,Medium
+INS0183,Weighing,Counter Scale,SYNTHETIC,0,False,11.209765099681048,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0184,Measuring,Liquid Measure,SYNTHETIC,0,False,7.468644820664277,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0185,Measuring,Measuring Tape,SYNTHETIC,0,False,12.659242038622695,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0186,Weighing,Platform Scale,SYNTHETIC,1,False,38.18353693075114,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0187,Measuring,Dispensing Pump,SYNTHETIC,0,False,10.081029802398493,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0188,Measuring,Dispensing Pump,SYNTHETIC,1,False,31.696998392189734,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0189,Weighing,Platform Scale,SYNTHETIC,1,False,32.116427945170365,Medium,"violation_indicator, calibration_failure_freq, historical_failure_rate",1,Medium
+INS0190,Weighing,Weighbridge,SYNTHETIC,2,False,41.845826443271214,High,"violation_indicator, calibration_failure_freq, mean_abs_deviation",2,High
+INS0191,Weighing,Weighbridge,SYNTHETIC,0,False,21.192569870779856,Low,"maintenance_freq, historical_failure_rate, days_since_calibration",0,Low
+INS0192,Measuring,Liquid Measure,SYNTHETIC,1,False,32.3275124248811,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0193,Measuring,Dispensing Pump,SYNTHETIC,0,False,9.265052173854702,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0194,Measuring,Liquid Measure,SYNTHETIC,1,True,35.68384794283069,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0195,Measuring,Liquid Measure,SYNTHETIC,1,False,49.26859956160436,Medium,"calibration_failure_freq, historical_failure_rate, violation_indicator",1,Medium
+INS0196,Weighing,Platform Scale,SYNTHETIC,0,False,8.35613270912311,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0197,Measuring,Measuring Tape,SYNTHETIC,0,False,32.572955354692084,Low,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0198,Measuring,Dispensing Pump,SYNTHETIC,1,False,40.376049582427,Medium,"calibration_failure_freq, historical_failure_rate, violation_indicator",1,Medium
+INS0199,Measuring,Liquid Measure,SYNTHETIC,0,False,8.612233049253348,Low,"days_since_calibration, historical_failure_rate, usage_intensity",0,Low
+INS0200,Weighing,Platform Scale,SYNTHETIC,1,False,42.16487140184291,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0201,Weighing,Platform Scale,SYNTHETIC,0,False,12.274707050394824,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0202,Weighing,Weighbridge,SYNTHETIC,1,False,31.641781753205674,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0203,Measuring,Dispensing Pump,SYNTHETIC,0,False,9.050913056049644,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0204,Measuring,Dispensing Pump,SYNTHETIC,1,False,39.98232931173447,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0205,Weighing,Counter Scale,SYNTHETIC,1,False,40.070870448947716,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0206,Measuring,Liquid Measure,SYNTHETIC,1,False,31.598937249092796,Medium,"calibration_failure_freq, violation_indicator, usage_intensity",1,Medium
+INS0207,Weighing,Counter Scale,SYNTHETIC,0,False,8.388809169274817,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0208,Measuring,Dispensing Pump,SYNTHETIC,0,False,10.851106852392947,Low,"usage_intensity, days_since_calibration, maintenance_freq",0,Low
+INS0209,Measuring,Dispensing Pump,SYNTHETIC,1,False,51.91435230495899,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0210,Weighing,Weighbridge,SYNTHETIC,2,False,38.072402239354005,High,"violation_indicator, mean_abs_deviation, calibration_failure_freq",2,High
+INS0211,Weighing,Platform Scale,SYNTHETIC,0,False,10.941751854443009,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0212,Weighing,Platform Scale,SYNTHETIC,1,False,29.28711598239117,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0213,Measuring,Measuring Tape,SYNTHETIC,0,False,25.500966582435847,Low,"violation_indicator, days_since_calibration, calibration_failure_freq",0,Low
+INS0214,Weighing,Platform Scale,SYNTHETIC,1,False,33.27696253942253,Medium,"violation_indicator, historical_failure_rate, days_since_calibration",1,Medium
+INS0215,Measuring,Measuring Tape,SYNTHETIC,0,False,7.601596463557805,Low,"days_since_calibration, historical_failure_rate, maintenance_freq",0,Low
+INS0216,Measuring,Dispensing Pump,SYNTHETIC,1,False,42.34201045564287,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0217,Measuring,Dispensing Pump,SYNTHETIC,1,False,40.296103818308744,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0218,Weighing,Weighbridge,SYNTHETIC,0,False,8.595297983887152,Low,"days_since_calibration, mean_abs_deviation, historical_failure_rate",0,Low
+INS0219,Weighing,Platform Scale,SYNTHETIC,0,False,7.6367512162017706,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0220,Measuring,Measuring Tape,SYNTHETIC,0,False,9.143089004285937,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0221,Weighing,Weighbridge,SYNTHETIC,2,False,40.55413393285077,High,"violation_indicator, mean_abs_deviation, calibration_failure_freq",2,High
+INS0222,Weighing,Weighbridge,SYNTHETIC,1,False,37.06702299556388,Medium,"violation_indicator, calibration_failure_freq, historical_failure_rate",1,Medium
+INS0223,Measuring,Measuring Tape,SYNTHETIC,1,False,30.204056347846414,Medium,"violation_indicator, calibration_failure_freq, historical_failure_rate",1,Medium
+INS0224,Measuring,Measuring Tape,SYNTHETIC,0,False,9.16270182760262,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0225,Weighing,Counter Scale,SYNTHETIC,0,False,13.985553350757552,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0226,Measuring,Liquid Measure,SYNTHETIC,0,False,7.307669224062583,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0227,Weighing,Platform Scale,SYNTHETIC,1,False,41.324874010962176,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0228,Weighing,Weighbridge,SYNTHETIC,2,False,46.51907607304283,High,"calibration_failure_freq, violation_indicator, mean_abs_deviation",2,High
+INS0229,Measuring,Measuring Tape,SYNTHETIC,1,False,39.32087540357084,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0230,Weighing,Platform Scale,SYNTHETIC,1,False,35.55745147814145,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0231,Weighing,Weighbridge,SYNTHETIC,1,False,41.23757381778621,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0232,Measuring,Dispensing Pump,SYNTHETIC,0,False,4.985151266587429,Low,"usage_intensity, days_since_calibration, mean_abs_deviation",0,Low
+INS0233,Weighing,Weighbridge,SYNTHETIC,2,False,51.91650776117906,High,"calibration_failure_freq, mean_abs_deviation, violation_indicator",2,High
+INS0234,Measuring,Liquid Measure,SYNTHETIC,1,False,37.06868651870515,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0235,Measuring,Dispensing Pump,SYNTHETIC,1,False,29.700073750482524,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0236,Weighing,Platform Scale,SYNTHETIC,0,False,6.440155789903463,Low,"usage_intensity, days_since_calibration, mean_abs_deviation",0,Low
+INS0237,Weighing,Platform Scale,SYNTHETIC,1,False,27.345618832747192,Medium,"violation_indicator, days_since_calibration, calibration_failure_freq",1,Medium
+INS0238,Measuring,Liquid Measure,SYNTHETIC,1,False,31.667966006401816,Medium,"violation_indicator, days_since_calibration, calibration_failure_freq",1,Medium
+INS0239,Weighing,Weighbridge,SYNTHETIC,2,False,63.769046361226664,High,"mean_abs_deviation, calibration_failure_freq, violation_indicator",2,High
+INS0240,Measuring,Liquid Measure,SYNTHETIC,0,False,11.067548048602708,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0241,Measuring,Dispensing Pump,SYNTHETIC,1,False,26.588214979135643,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0242,Weighing,Platform Scale,SYNTHETIC,1,False,33.010328232724184,Medium,"violation_indicator, days_since_calibration, calibration_failure_freq",1,Medium
+INS0243,Measuring,Dispensing Pump,SYNTHETIC,0,False,12.974028264166742,Low,"historical_failure_rate, usage_intensity, maintenance_freq",0,Low
+INS0244,Weighing,Counter Scale,SYNTHETIC,0,False,4.465336522315276,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0245,Weighing,Counter Scale,SYNTHETIC,0,False,14.566307162628936,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0246,Measuring,Dispensing Pump,SYNTHETIC,1,False,34.93337344339275,Medium,"calibration_failure_freq, violation_indicator, usage_intensity",1,Medium
+INS0247,Weighing,Weighbridge,SYNTHETIC,2,False,53.59110195137444,High,"mean_abs_deviation, calibration_failure_freq, violation_indicator",2,High
+INS0248,Measuring,Measuring Tape,SYNTHETIC,1,False,41.08409889960632,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0249,Measuring,Liquid Measure,SYNTHETIC,1,False,45.41111001842357,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0250,Measuring,Dispensing Pump,SYNTHETIC,0,False,3.577636236184793,Low,"usage_intensity, days_since_calibration, maintenance_freq",0,Low
+INS0251,Measuring,Dispensing Pump,SYNTHETIC,0,False,25.27564285809156,Low,"violation_indicator, calibration_failure_freq, days_since_calibration",0,Low
+INS0252,Measuring,Liquid Measure,SYNTHETIC,1,False,29.513057846590346,Medium,"violation_indicator, calibration_failure_freq, historical_failure_rate",1,Medium
+INS0253,Measuring,Dispensing Pump,SYNTHETIC,0,False,31.91941070227208,Low,"violation_indicator, calibration_failure_freq, days_since_calibration",0,Low
+INS0254,Measuring,Measuring Tape,SYNTHETIC,0,False,24.769828645474938,Low,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0255,Weighing,Counter Scale,SYNTHETIC,1,False,36.2875931385956,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0256,Measuring,Dispensing Pump,SYNTHETIC,0,False,11.94954092005064,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0257,Measuring,Liquid Measure,SYNTHETIC,0,False,8.716300757432178,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0258,Weighing,Platform Scale,SYNTHETIC,1,False,26.560857789692964,Medium,"violation_indicator, calibration_failure_freq, historical_failure_rate",1,Medium
+INS0259,Weighing,Counter Scale,SYNTHETIC,0,False,9.232890236056901,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0260,Measuring,Measuring Tape,SYNTHETIC,0,False,2.0585407015125448,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0261,Measuring,Dispensing Pump,SYNTHETIC,1,False,30.50284600249712,Medium,"violation_indicator, days_since_calibration, calibration_failure_freq",0,Low
+INS0262,Measuring,Liquid Measure,SYNTHETIC,0,False,8.875313950070195,Low,"days_since_calibration, historical_failure_rate, usage_intensity",0,Low
+INS0263,Weighing,Counter Scale,SYNTHETIC,0,False,9.874670815043594,Low,"days_since_calibration, historical_failure_rate, maintenance_freq",0,Low
+INS0264,Weighing,Platform Scale,SYNTHETIC,1,False,28.992969956101145,Medium,"violation_indicator, calibration_failure_freq, usage_intensity",1,Medium
+INS0265,Measuring,Measuring Tape,SYNTHETIC,0,False,12.464751866229825,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0266,Weighing,Platform Scale,SYNTHETIC,0,False,11.193647036111454,Low,"usage_intensity, maintenance_freq, days_since_calibration",0,Low
+INS0267,Weighing,Weighbridge,SYNTHETIC,2,False,57.069514860747276,High,"calibration_failure_freq, violation_indicator, mean_abs_deviation",2,High
+INS0268,Weighing,Weighbridge,SYNTHETIC,2,False,36.463372596887076,High,"violation_indicator, calibration_failure_freq, mean_abs_deviation",2,High
+INS0269,Measuring,Dispensing Pump,SYNTHETIC,0,True,9.938096323452207,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0270,Measuring,Measuring Tape,SYNTHETIC,1,False,33.57978297731686,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0271,Weighing,Weighbridge,SYNTHETIC,0,False,12.619299936557155,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0272,Weighing,Platform Scale,SYNTHETIC,0,False,6.894694882834839,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0273,Weighing,Counter Scale,SYNTHETIC,1,False,46.2958257308432,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0274,Weighing,Weighbridge,SYNTHETIC,2,False,42.51510106872,High,"violation_indicator, mean_abs_deviation, days_since_calibration",2,High
+INS0275,Weighing,Platform Scale,SYNTHETIC,0,False,5.382687644025127,Low,"days_since_calibration, usage_intensity, mean_abs_deviation",0,Low
+INS0276,Measuring,Measuring Tape,SYNTHETIC,0,False,7.144410513220892,Low,"usage_intensity, days_since_calibration, maintenance_freq",0,Low
+INS0277,Measuring,Measuring Tape,SYNTHETIC,0,False,7.860368724887026,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0278,Measuring,Liquid Measure,SYNTHETIC,0,False,9.136168818246576,Low,"historical_failure_rate, days_since_calibration, usage_intensity",0,Low
+INS0279,Weighing,Weighbridge,SYNTHETIC,2,False,51.74656154123285,High,"calibration_failure_freq, violation_indicator, mean_abs_deviation",2,High
+INS0280,Weighing,Platform Scale,SYNTHETIC,0,False,24.03701806846965,Low,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0281,Weighing,Platform Scale,SYNTHETIC,0,False,12.0875863843112,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0282,Measuring,Measuring Tape,SYNTHETIC,1,False,33.44825123487798,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0283,Weighing,Platform Scale,SYNTHETIC,0,False,10.476648506252698,Low,"days_since_calibration, maintenance_freq, usage_intensity",0,Low
+INS0284,Weighing,Platform Scale,SYNTHETIC,0,False,13.735788540736657,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0285,Measuring,Measuring Tape,SYNTHETIC,1,False,29.597353705509033,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0286,Weighing,Platform Scale,SYNTHETIC,0,False,7.1472947385545815,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0287,Measuring,Measuring Tape,SYNTHETIC,1,False,43.43273080993324,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium
+INS0288,Measuring,Dispensing Pump,SYNTHETIC,0,False,6.75531565270494,Low,"days_since_calibration, usage_intensity, max_abs_deviation",0,Low
+INS0289,Weighing,Weighbridge,SYNTHETIC,0,False,31.40147936285845,Low,"violation_indicator, calibration_failure_freq, maintenance_freq",1,Medium
+INS0290,Measuring,Liquid Measure,SYNTHETIC,1,False,35.47529000158885,Medium,"calibration_failure_freq, violation_indicator, days_since_calibration",1,Medium
+INS0291,Weighing,Platform Scale,SYNTHETIC,0,False,19.661083289772495,Low,"historical_failure_rate, days_since_calibration, maintenance_freq",0,Low
+INS0292,Weighing,Counter Scale,SYNTHETIC,0,False,14.354131985884338,Low,"days_since_calibration, historical_failure_rate, usage_intensity",0,Low
+INS0293,Weighing,Weighbridge,SYNTHETIC,2,False,41.31082836713746,High,"calibration_failure_freq, violation_indicator, mean_abs_deviation",2,High
+INS0294,Weighing,Platform Scale,SYNTHETIC,0,False,12.640444785135385,Low,"days_since_calibration, usage_intensity, historical_failure_rate",0,Low
+INS0295,Weighing,Weighbridge,SYNTHETIC,2,False,39.05408629128762,High,"violation_indicator, mean_abs_deviation, calibration_failure_freq",2,High
+INS0296,Measuring,Dispensing Pump,SYNTHETIC,0,False,11.037148491527665,Low,"days_since_calibration, usage_intensity, maintenance_freq",0,Low
+INS0297,Measuring,Measuring Tape,SYNTHETIC,1,False,32.32559005950116,Medium,"violation_indicator, calibration_failure_freq, days_since_calibration",1,Medium
+INS0298,Measuring,Dispensing Pump,SYNTHETIC,1,False,28.613664945062588,Medium,"violation_indicator, days_since_calibration, calibration_failure_freq",1,Medium
+INS0299,Weighing,Counter Scale,SYNTHETIC,1,False,47.775253060938795,Medium,"calibration_failure_freq, violation_indicator, historical_failure_rate",1,Medium

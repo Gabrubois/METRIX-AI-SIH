@@ -1,0 +1,10 @@
+from common import *
+rec,feat=init()
+res=controls(feat)
+m=st.radio("Metric",["euclidean","manhattan"],horizontal=True); t=res[m]["table"].copy()
+p=PCA(3).fit_transform(res["Z"]); t[["PC1","PC2","PC3"]]=p; t["cluster"]=t.cluster.astype(str)
+st.caption("PCA is used for visualisation only.")
+st.plotly_chart(px.scatter(t,x="PC1",y="PC2",color="cluster",symbol="risk_group",hover_name="instrument_id",template=T),use_container_width=True)
+st.plotly_chart(px.scatter_3d(t,x="PC1",y="PC2",z="PC3",color="cluster",template=T),use_container_width=True)
+h=feat[S.cols].assign(c=res[m]["labels"]).groupby("c").mean(); st.plotly_chart(px.imshow((h-h.min())/(h.max()-h.min()+1e-9),text_auto=".2f",template=T,title="Cluster profile heatmap"),use_container_width=True)
+st.plotly_chart(px.box(rec,x="instrument_type",y="calibration_deviation",template=T),use_container_width=True)
